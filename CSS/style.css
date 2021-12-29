@@ -1,11 +1,6 @@
-#profil {
-  background-color: #ffffff;
-  padding:  20px 10px;
-  color: #00688E;
-  text-align: center;
-}
-
-<style>
-  body {
-    background-image: ('./image/harist2.jpg');
+{
+    background-color: #ffffff;
+    padding:  20px 10px;
+    color: #00688E;
+    text-align: center;
   }
