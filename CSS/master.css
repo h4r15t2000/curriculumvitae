@@ -3,6 +3,11 @@
   /* untuk menjaga konten agar tak keluar layar */
 }
 
+<style>
+  body {
+    background-image: ('./image/harist2.jpg');
+  }
+
 .row::after {
   content: "";
   clear: both;
